@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Adrián Sáez 👋
 
-<!--
-**adriaansaeez/adriaansaeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineer • Technical Lead • Software Architect
 
-Here are some ideas to get you started:
+I'm passionate about building scalable software, AI-powered products, and cloud-native platforms. My work focuses on Generative AI, backend architecture, automation, and developer productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Featured Projects
+
+> Add your most important public repositories here.
+
+* 
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adriaansaeez&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriaansaeez&layout=compact" />
+</p>
+
+---
+
+## 🌱 Current Focus
+
+* Building AI-powered products
+* Multi-agent systems
+* Enterprise AI adoption
+* Developer productivity tools
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/adriaansaeez
+* 🌍 Website: https://adriaansaeez.com
+* 📧 Email: [adriansaezbeltra@gmail.com](mailto:adriansaezbeltra@gmail.com)
+
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
