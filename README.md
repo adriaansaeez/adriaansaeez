@@ -6,14 +6,6 @@ I'm passionate about building scalable software, AI-powered products, and cloud-
 
 ---
 
-## 📌 Featured Projects
-
-> Add your most important public repositories here.
-
-
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
