@@ -1,6 +1,6 @@
 # Hi there, I'm adriaansaeez 👋
 
-## AI Engineer • Technical Lead • Software Architect
+  ## AI Engineer • Product Engineer • FullStack Dev
 
 I'm passionate about building scalable software, AI-powered products, and cloud-native platforms. My work focuses on Generative AI, backend architecture, automation, and developer productivity.
 
