@@ -6,6 +6,19 @@ I'm passionate about building scalable software, AI-powered products, and cloud-
 
 ---
 
+## 🚀 Main Projects
+
+### [WhispyAI](https://github.com/adriaansaeez/whispyai) · [whispyai.pro](https://whispyai.pro)
+Native macOS menubar app for AI-powered dictation: transcribe locally with Apple Speech, rewrite with your preferred AI provider, and insert the polished text directly into any app. No copy-paste, no context switching. `Swift 6.0` `macOS 14+` `OpenAI-compatible`
+
+### [FitAI](https://github.com/adriaansaeez/FitAI)
+Simulated 10-minute race demo where **Jev** (TypeSafe System One) reads the athlete's training state second by second and decides between pacing adjustments — with a deterministic safety layer that always dominates the model's output. Fictional seeded data, no medical advice. `Next.js` `TypeScript` `TypeSafe`
+
+### TravelTok *(private repo)*
+Local-first single-user trip organizer: collect saved TikTok videos, transcribe them, and turn them into structured places on a travel map. Runs entirely on your machine — local Postgres, local AI services, no subscriptions, no cloud. `Local-first` `AI transcription`
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
