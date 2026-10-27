@@ -18,14 +18,6 @@ I'm passionate about building scalable software, AI-powered products, and cloud-
 
 ---
 
-## 🌱 Current Focus
-
-* Building AI-powered products
-* Multi-agent systems
-* Enterprise AI adoption
-* Developer productivity tools
-
----
 
 ## 🌐 Connect With Me
 
