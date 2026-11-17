@@ -19,19 +19,6 @@ Simulated 10-minute race demo where **Jev** (TypeSafe System One) reads the athl
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriaansaeez&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriaansaeez&layout=compact" />
-</p>
-
----
-
-
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/adriaansaeez
